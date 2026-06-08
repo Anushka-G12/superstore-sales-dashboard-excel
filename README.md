@@ -31,4 +31,5 @@ An interactive sales dashboard developed in Microsoft Excel using the Superstore
 ## Author
 
 Anushka Gupta
+
 Business Intelligence & Analytics Student
