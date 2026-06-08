@@ -1,8 +1,7 @@
 # Superstore Sales Dashboard
 
-![Dashboard Preview](Screenshot 2026-06-08 125019.png)
-![Dashboard Preview](DP 1.pdf)
-![Dashboard Preview](DP 1.pptx)
+![Dashboard Preview](DP1.png)
+
 
 ## Overview
 
