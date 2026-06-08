@@ -1,5 +1,9 @@
 # Superstore Sales Dashboard
 
+![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](sales_dashboard.pdf)
+![Dashboard Preview](sales_dashboard.pptx)
+
 ## Overview
 
 An interactive sales dashboard developed in Microsoft Excel using the Superstore dataset to analyze sales performance across customer segments, categories, products, and time periods.
