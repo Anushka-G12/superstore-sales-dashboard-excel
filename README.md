@@ -1,7 +1,7 @@
 # Superstore Sales Dashboard
 
 ![Dashboard Preview](DP1.png)
-
+![Dashboard Preview](Sales Dashboard Excel.xlsx)
 
 ## Overview
 
